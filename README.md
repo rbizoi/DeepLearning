@@ -50,4 +50,4 @@ conda activate cours
 pip install --upgrade keras tensorflow
 ```
 
-
+https://github.com/keras-team/keras/tree/master
