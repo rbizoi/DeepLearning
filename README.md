@@ -1,6 +1,6 @@
 # Bienvenue sur le référentiel DeepLearning 
 
-<img src="https://raw.githubusercontent.com/rbizoi/DeepLearning/refs/heads/main/images/style_transfer_result_at_iteration_19.png" width="1024">
+<img src="https://raw.githubusercontent.com/rbizoi/DeepLearning/refs/heads/main/images/style_transfer_result_at_iteration_19.png" width="768">
 
 
 <b><div>Installation</div></b>
