@@ -6,14 +6,6 @@
 <b><div>Installation</div></b>
 
 
-<table>
-    <tr>                                                                                   
-         <th><a href="https://www.anaconda.com/download/success">
-               <img src="https://raw.githubusercontent.com/rbizoi/MachineLearning/refs/heads/master/images/anaconda.png" width="512">
-             </a>
-         </th>
-    </tr>    
-</table>
 <br>
 <b></b><a href="https://www.anaconda.com/download/success">Installation Anaconda</a></b>
 <br>
